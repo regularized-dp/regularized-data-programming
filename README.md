@@ -2,7 +2,7 @@
 
 Repository structure:
 
-- `data`: Directory containing all data files used in experiments.
+- `data`: Directory containing all data files used in experiments and results from low-data experiments.
 - `experiments_baselines`: Directory containing notebooks to reproduce Snorkel, CAGE, and supervised learning baselines.
 - `experiments_low_data`: Directory containing notebooks to reproduce low-data regime experiments.
 - `model_scripts`: Directory containing Python scripts implementing labeling models and notebooks that demo functionality.
